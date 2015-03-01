@@ -1,0 +1,2 @@
+<?xml version="1.0"?>
+<AssessmentOrderRequest><ClientId idOwner="Saville Consulting"><idValue name="ClientCode">00000001</idValue></ClientId><PackageId idOwner="Saville Consulting"><idValue name="Instrument">this is a value</idValue><idValue name="XmlScores">second val</idValue></PackageId></AssessmentOrderRequest>
